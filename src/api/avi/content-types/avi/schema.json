@@ -1,0 +1,40 @@
+{
+  "kind": "collectionType",
+  "collectionName": "avis",
+  "info": {
+    "singularName": "avi",
+    "pluralName": "avis",
+    "displayName": "Avis",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Titre": {
+      "type": "string",
+      "required": true
+    },
+    "Message": {
+      "type": "string",
+      "required": true
+    },
+    "Nom": {
+      "type": "string",
+      "required": true
+    },
+    "Poste": {
+      "type": "string",
+      "required": true
+    },
+    "Avatar": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false,
+      "required": true
+    }
+  }
+}

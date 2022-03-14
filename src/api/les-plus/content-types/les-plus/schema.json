@@ -1,0 +1,33 @@
+{
+  "kind": "collectionType",
+  "collectionName": "les_pluses",
+  "info": {
+    "singularName": "les-plus",
+    "pluralName": "les-pluses",
+    "displayName": "Les Plus"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Titre": {
+      "type": "string",
+      "required": true
+    },
+    "Description": {
+      "type": "string",
+      "required": true
+    },
+    "Image": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}
