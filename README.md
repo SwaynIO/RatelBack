@@ -25,10 +25,10 @@
     <img src="https://i.imgur.com/iAJT8PT.png" alt="Logo" width="80"
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">RatelBack</h3>
 
   <p align="center">
-    project_description
+    Content management system powered by sqlite technology
     <br />
     <a href="https://github.com/SailorEudes/RatelBack"><strong>Explore the docs »</strong></a>
     <br />
