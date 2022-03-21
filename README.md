@@ -27,7 +27,7 @@
 
 <h3 align="center">RatelBack</h3>
 
-<img src="https://i.imgur.com/iAJT8PT.png" alt="Logo" width="80">
+<center><img src="https://i.imgur.com/VwWOjIt.png" alt="Logo" width="80"></center>
 
   <p align="center">
     Content management system powered by sqlite technology
@@ -63,7 +63,6 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -156,22 +155,6 @@ Use this space to show useful examples of how a project can be used. Additional 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [] Feature 1
-- [] Feature 2
-- [] Feature 3
-    - [] Nested Feature
-
-See the [open issues](https://github.com/SailorEudes/RatelBack/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- CONTRIBUTING -->
 ## Contributing
