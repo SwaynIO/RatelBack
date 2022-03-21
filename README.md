@@ -82,9 +82,6 @@ This product was created with Strapi and aims to manage the official Ratel-Roche
 
 ### Built With
 
-* [Gatsbyjs](https://www.gatsbyjs.com/)
-* [React.js](https://reactjs.org/)
-* [Bootstrap](https://getbootstrap.com)
 * [Strapi](https://strapi.io/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
