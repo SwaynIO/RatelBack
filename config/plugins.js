@@ -13,7 +13,7 @@ module.exports = ({ env }) => ({
       captchaProvider: {
         name: 'recaptcha',
         config: {
-          secretKey: '6Lex_eoeAAAAADtrA1iZfkbsdK0d_cxXDy-nH6km',
+          secretKey: env('RECAPTCHA_ACCESS'),
           minimumScore: 0.5
         }
       },
