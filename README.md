@@ -120,7 +120,7 @@ or
    ```sh
    npm install
    ```
-or
+    or
    ```sh
    yarn
    ```
