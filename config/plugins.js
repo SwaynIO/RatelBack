@@ -38,16 +38,14 @@ module.exports = ({ env }) => ({
   },
 
   upload: {
-    config: {
-      provider: 'aws-s3',
-      providerOptions: {
-        accessKeyId: env('AKIA2TVGCVJM6Y3ZUAV4'),
-        secretAccessKey: env('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'),
-        region: env('eu-west-3'),
-        params: {
-          Bucket: env('ratelroche'),
-        },
+    provider: 'aws-s3',
+    providerOptions: {
+      accessKeyId: env('AWS_ACCESS_KEY_ID'),
+      secretAccessKey: env('AWS_ACCESS_SECRET'),
+      region: env('AWS_REGION'),
+      params: {
+        Bucket: env('AWS_BUCKET_NAME'),
       },
-    },
-  },
+    }
+  }
 });
