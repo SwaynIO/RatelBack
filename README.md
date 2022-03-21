@@ -22,12 +22,12 @@
 <br />
 <div align="center">
   <a href="https://github.com/SailorEudes/RatelBack">
-    <img src="https://i.imgur.com/iAJT8PT.png" alt="Logo" width="80">
+    <img src="https://i.imgur.com/iAJT8PT.png" alt="Logo" width="250">
   </a>
 
 <h3 align="center">RatelBack</h3>
 
-<center><img src="https://i.imgur.com/VwWOjIt.png" alt="Logo" width="80"></center>
+<center><img src="https://i.imgur.com/VwWOjIt.png" alt="Logo" width="200"></center>
 
   <p align="center">
     Content management system powered by sqlite technology
