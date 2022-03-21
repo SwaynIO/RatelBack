@@ -94,10 +94,16 @@ This product was created with Strapi and aims to manage the official Ratel-Roche
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Before starting, it is important to make sure that NodeJS is installed on your machine and that it is up to date, to do this, 
+you must open your CMD (Windows) or Terminal (Mac).
 
 ### Prerequisites
+
+To check if NodeJS is installed on your machine :
+* npm
+  ```sh
+  node -v
+  ```
 
 To launch the installation of the Strapi dependencies, you can use :
 * npm
@@ -126,7 +132,7 @@ or
    ```
 4. Create your environment file at the root of the project `.env`
    ```html
-   HOST=0.0.0.0
+    HOST=0.0.0.0
     PORT=1337
     APP_KEYS=sNPFecV8ErU39zJDErJ4gw==,v7Wl4lsoDNylk5Tt3NnCqg==,p5vMYln+JCQ4bhwBHz2Ebg==,YAX6wK4mL+Yo8E8WMx3ksw==
     JWT_SECRET=36b01d65-eeef-4966-9700-03ca75b0f3bc
