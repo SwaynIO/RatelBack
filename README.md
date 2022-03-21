@@ -27,7 +27,7 @@
 
 <h3 align="center">RatelBack</h3>
 
-<center><img src="https://i.imgur.com/VwWOjIt.png" alt="Logo" width="200"></center>
+<center><img src="https://i.imgur.com/VwWOjIt.png" alt="Logo" width="500"></center>
 
   <p align="center">
     Content management system powered by sqlite technology
