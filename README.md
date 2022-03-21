@@ -74,8 +74,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][https://i.imgur.com/iAJT8PT.png]](https://i.imgur.com/iAJT8PT.png)
-
 This product was created with Strapi and aims to manage the official Ratel-Roche website visually and simply
 
 <p align="right">(<a href="#top">back to top</a>)</p>
