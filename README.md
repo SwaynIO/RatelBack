@@ -112,18 +112,31 @@ or
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
    git clone https://github.com/SailorEudes/RatelBack.git
    ```
-3. Install NPM packages
+2. Install NPM packages
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
+or
+   ```sh
+   yarn
+   ```
+4. Create your environment file at the root of the project `.env`
+   ```html
+   HOST=0.0.0.0
+    PORT=1337
+    APP_KEYS=sNPFecV8ErU39zJDErJ4gw==,v7Wl4lsoDNylk5Tt3NnCqg==,p5vMYln+JCQ4bhwBHz2Ebg==,YAX6wK4mL+Yo8E8WMx3ksw==
+    JWT_SECRET=36b01d65-eeef-4966-9700-03ca75b0f3bc
+    API_TOKEN_SALT=7d6df6434e8a95a2a62d0bfdc7a9a507
+    MY_HEROKU_URL=Pre-prod or production URL
+    AWS_ACCESS_KEY_ID=AWS Acces Key
+    AWS_ACCESS_SECRET=AWS Secret Key
+    AWS_REGION=AWS S3 Region
+    AWS_BUCKET_NAME=AWS S3 Bucket
+    RECAPTCHA_ACCESS=RECAPTCHA KEY
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
