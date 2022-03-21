@@ -22,7 +22,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/SailorEudes/RatelBack">
-    <img src="https://i.imgur.com/iAJT8PT.png" alt="Logo" width="80" height="80">
+    <img src="https://i.imgur.com/iAJT8PT.png" alt="Logo" width="80"
   </a>
 
 <h3 align="center">project_title</h3>
