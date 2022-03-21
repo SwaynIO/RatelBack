@@ -76,7 +76,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://i.imgur.com/iAJT8PT.png)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email`, `email_client`, `project_title`, `project_description`
+This product was created with Strapi and aims to manage the official Ratel-Roche website visually and simply
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
