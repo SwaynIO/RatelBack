@@ -1,5 +1,9 @@
 {
 	"latest": "4.1.5",
+<<<<<<< HEAD
 	"lastUpdateCheck": 1647944271052,
+=======
+	"lastUpdateCheck": 1647512321529,
+>>>>>>> parent of 89f67b4 (Update .strapi-updater.json)
 	"lastNotification": 1647512327426
 }
