@@ -53,6 +53,7 @@
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
+        <li><a href="#used-packages">Used Packages</a></li>
       </ul>
     </li>
     <li>
@@ -62,11 +63,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -84,6 +81,25 @@ This product was created with Strapi and aims to manage the official Ratel-Roche
 ### Built With
 
 * [Strapi](https://strapi.io/)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+### Used Packages
+
+* [@strapi/plugin-graphql (^4.1.5)](https://docs.strapi.io/developer-docs/latest/plugins/graphql.html)
+* [@strapi/plugin-i18n (^4.1.5)](https://docs.strapi.io/developer-docs/latest/plugins/plugins-intro.html)
+* [@strapi/plugin-seo (^4.1.5)](https://market.strapi.io/plugins/@strapi-plugin-seo)
+* [@strapi/plugin-users-permissions (^4.1.5)](https://docs.strapi.io/developer-docs/latest/plugins/plugins-intro.html)
+* [@strapi/provider-upload-aws-s3 (^4.1.5)](https://docs.strapi.io/developer-docs/latest/setup-deployment-guides/deployment/hosting-guides/amazon-aws.html)
+* [@strapi/strapi (^4.1.5)](https://docs.strapi.io/developer-docs/latest/getting-started/introduction.html)
+* [pg (^8.7.3)](https://www.npmjs.com/package/pg)
+* [pg-connection-string (^2.5.0)](https://www.npmjs.com/package/pg-connection-string)
+* [sqlite3 (5.0.2)](https://www.npmjs.com/package/sqlite)
+* [strapi-plugin-ezforms (^0.0.7)](https://market.strapi.io/plugins/strapi-plugin-ezforms)
+* [strapi-plugin-migrations (^1.0.3)](https://market.strapi.io/plugins/strapi-plugin-migrations)
+* [strapi-plugin-sitemap (^2.0.6)](https://market.strapi.io/plugins/strapi-plugin-sitemap)
+* [strapi-provider-rest-cache-memory (^2.0.6)](https://market.strapi.io/plugins/strapi-plugin-rest-cache)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -142,19 +158,11 @@ or
     AWS_BUCKET_NAME=AWS S3 Bucket
     RECAPTCHA_ACCESS=RECAPTCHA KEY
    ```
+   
+ 4. Use the command `yarn develop` to launch the system
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -174,32 +182,12 @@ Don't forget to give the project a star! Thanks again!
 
 
 
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
 <!-- CONTACT -->
 ## Contact
 
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
 
 Project Link: [https://github.com/SailorEudes/RatelBack](https://github.com/SailorEudes/RatelBack)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* []()
-* []()
-* []()
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
