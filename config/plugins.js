@@ -1,42 +1,5 @@
 module.exports = ({ env }) => ({
 
-  seo: {
-    enabled: false,
-  },
-
-  graphql: {
-    enabled: false,
-  },
-
-  ezforms: {
-    config: {
-      captchaProvider: {
-        name: 'recaptcha',
-        config: {
-          secretKey: '6Lex_eoeAAAAADtrA1iZfkbsdK0d_cxXDy-nH6km',
-          minimumScore: 0.5
-        }
-      },
-      notificationProviders: [
-        {
-          name: 'email',
-          enabled: false,
-          config: {
-            from: 'antoine.jacoulet@ratelroche.com'
-          }
-        }
-      ]
-    }
-  },
-
-  migrations: {
-    enabled: false,
-    config: {
-      autoStart: false,
-      migrationFolderPath: 'migrations'
-    },
-  },
-
   upload: {
     provider: 'aws-s3',
     providerOptions: {
