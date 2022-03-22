@@ -1,11 +1,11 @@
 module.exports = ({ env }) => ({
 
   seo: {
-    enabled: true,
+    enabled: false,
   },
 
   graphql: {
-    enabled: true,
+    enabled: false,
   },
 
   ezforms: {
@@ -20,7 +20,7 @@ module.exports = ({ env }) => ({
       notificationProviders: [
         {
           name: 'email',
-          enabled: true,
+          enabled: false,
           config: {
             from: 'antoine.jacoulet@ratelroche.com'
           }
@@ -30,9 +30,9 @@ module.exports = ({ env }) => ({
   },
 
   migrations: {
-    enabled: true,
+    enabled: false,
     config: {
-      autoStart: true,
+      autoStart: false,
       migrationFolderPath: 'migrations'
     },
   },
