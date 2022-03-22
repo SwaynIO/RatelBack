@@ -26,6 +26,9 @@
   </a>
 
 <h3 align="center">RatelBack</h3>
+
+<center><img src="https://i.imgur.com/VwWOjIt.png" alt="Logo" width="500"></center>
+
   <p align="center">
     Content management system powered by sqlite technology
     <br />
@@ -38,9 +41,6 @@
     ·
     <a href="https://github.com/SailorEudes/RatelBack/issues">Request Feature</a>
   </p>
-
-<center><img src="https://i.imgur.com/VwWOjIt.png" alt="Logo" width="500"></center>
-
 </div>
 
 
