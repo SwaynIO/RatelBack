@@ -162,6 +162,8 @@ or
     AWS_BUCKET_NAME=AWS S3 Bucket
     RECAPTCHA_ACCESS=RECAPTCHA KEY
    ```
+   
+ 4. Use the command `yarn develop` to launch the system
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
