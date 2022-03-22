@@ -53,7 +53,7 @@
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
-        <li><a href="#used-package">Used Packages</a></li>
+        <li><a href="#used-packages">Used Packages</a></li>
       </ul>
     </li>
     <li>
@@ -96,7 +96,14 @@ This product was created with Strapi and aims to manage the official Ratel-Roche
 * [@strapi/plugin-seo (^4.1.5)](https://market.strapi.io/plugins/@strapi-plugin-seo)
 * [@strapi/plugin-users-permissions (^4.1.5)](https://docs.strapi.io/developer-docs/latest/plugins/plugins-intro.html)
 * [@strapi/provider-upload-aws-s3 (^4.1.5)](https://docs.strapi.io/developer-docs/latest/setup-deployment-guides/deployment/hosting-guides/amazon-aws.html)
-* [@strapi/provider-upload-aws-s3 (^4.1.5)](https://docs.strapi.io/developer-docs/latest/setup-deployment-guides/deployment/hosting-guides/amazon-aws.html)
+* [@strapi/strapi (^4.1.5)](https://docs.strapi.io/developer-docs/latest/getting-started/introduction.html)
+* [pg (^8.7.3)](https://www.npmjs.com/package/pg)
+* [pg-connection-string (^2.5.0)](https://www.npmjs.com/package/pg-connection-string)
+* [sqlite3 (5.0.2)](https://www.npmjs.com/package/sqlite)
+* [strapi-plugin-ezforms (^0.0.7)](https://market.strapi.io/plugins/strapi-plugin-ezforms)
+* [strapi-plugin-migrations (^1.0.3)](https://market.strapi.io/plugins/strapi-plugin-migrations)
+* [strapi-plugin-sitemap (^2.0.6)](https://market.strapi.io/plugins/strapi-plugin-sitemap)
+* [strapi-provider-rest-cache-memory (^2.0.6)](https://market.strapi.io/plugins/strapi-plugin-rest-cache)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
